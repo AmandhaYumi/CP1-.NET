@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kova.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5faeca4288b8e760be4e5088202bab56a7e4bc9c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a751fc6d3e63ec586b59f4e3779fd36af304e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kova.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kova.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

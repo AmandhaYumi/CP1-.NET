@@ -1,4 +1,4 @@
-﻿namespace Recommenda.Domain.Commons;
+﻿namespace Kova.Domain.Commons;
 
 public abstract class BaseEntity
 {
@@ -8,4 +8,3 @@ public abstract class BaseEntity
 
     public bool Active { get; protected set; } = true;
 }
-

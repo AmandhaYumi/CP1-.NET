@@ -1,28 +1,35 @@
-﻿namespace Kova.Domain.Entities;
+﻿using Kova.Domain.Commons;
 
-public class Produto
+namespace Kova.Domain.Entities;
+
+public class Produto : BaseEntity
 {
-    public Guid Id { get; private set; } = Guid.NewGuid();
-
     public string Nome { get; private set; }
 
     public string Descricao { get; private set; }
 
     public decimal Preco { get; private set; }
 
-    public int CategoriaId { get; private set; }
+    public Guid CategoriaId { get; private set; }
 
-    public List<Pedido> Pedidos { get; private set; }
+    public Categoria Categoria { get; private set; }
 
-    public Produto(string nome, string descricao, decimal preco, int categoriaId)
+    public List<Pedido> Pedidos { get; private set; } = new();
+
+    public Produto(string nome, string descricao, decimal preco, Guid categoriaId)
     {
         if (nome == null || nome.Length < 2)
             throw new Exception("Nome inválido");
+
         Nome = nome;
+
         if (descricao == null || descricao.Length < 10)
             throw new Exception("Descrição inválida");
+
         Descricao = descricao;
+
         Preco = preco;
+
         CategoriaId = categoriaId;
     }
-    }
+}

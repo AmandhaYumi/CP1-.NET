@@ -1,11 +1,10 @@
-﻿using Kova.Domain.Enums;
+﻿using Kova.Domain.Commons;
+using Kova.Domain.Enums;
 
 namespace Kova.Domain.Entities;
 
-public class Pagamento
+public class Pagamento : BaseEntity
 {
-    public Guid Id { get; private set; } = Guid.NewGuid();
-
     public StatusPagamento Status { get; private set; }
 
     public TipoPagamento Tipo { get; private set; }
