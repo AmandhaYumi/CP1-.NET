@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj": {}
+    "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj": {}
   },
   "projects": {
-    "D:\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj": {
+    "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj",
+        "projectUniqueName": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj",
         "projectName": "Kova.api",
-        "projectPath": "D:\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj",
-        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "D:\\CP-NET\\KOVA\\Kova.api\\obj\\",
+        "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.api\\Kova.api.csproj",
+        "packagesPath": "C:\\Users\\ginad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ginad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj": {
-                "projectPath": "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj"
+              "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj"
               }
             }
           }
@@ -49,7 +42,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -81,6 +74,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -89,41 +100,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ginad\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj": {
+    "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj",
+        "projectUniqueName": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj",
         "projectName": "Kova.Application",
-        "projectPath": "D:\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj",
-        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "D:\\CP-NET\\KOVA\\Kova.Application\\obj\\",
+        "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj",
+        "packagesPath": "C:\\Users\\ginad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ginad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
-                "projectPath": "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj"
+              "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
+                "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj"
               }
             }
           }
@@ -138,7 +142,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -154,38 +158,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ginad\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
+    "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj",
         "projectName": "Kova.Domain",
-        "projectPath": "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj",
-        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "D:\\CP-NET\\KOVA\\Kova.Domain\\obj\\",
+        "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj",
+        "packagesPath": "C:\\Users\\ginad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ginad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -204,7 +215,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -220,49 +231,56 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ginad\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj": {
+    "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj",
         "projectName": "Kova.Infrastructure",
-        "projectPath": "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\labsfiap\\.nuget\\packages\\",
-        "outputPath": "D:\\CP-NET\\KOVA\\Kova.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\Kova.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ginad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\labsfiap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ginad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj": {
-                "projectPath": "D:\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj"
+              "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj": {
+                "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Application\\Kova.Application.csproj"
               },
-              "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
-                "projectPath": "D:\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj"
+              "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj": {
+                "projectPath": "C:\\Users\\ginad\\OneDrive - Fiap-Faculdade de Informática e Administração Paulista\\Área de Trabalho\\CP-NET\\KOVA\\Kova.Domain\\Kova.Domain.csproj"
               }
             }
           }
@@ -277,7 +295,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -313,12 +331,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ginad\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
